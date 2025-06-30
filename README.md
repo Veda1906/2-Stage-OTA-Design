@@ -4,8 +4,6 @@ This project involves the **design and simulation of a two-stage Operational Amp
 
 ---
 
-## Schematic
-![Schematic](Schematic.png)
 
 ## Technology & Tools
 
